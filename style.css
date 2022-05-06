@@ -32,3 +32,15 @@ a:hover{
 
 
  
+nav{
+    color: #1b1b1b;
+}
+
+.li{
+   font-size: 30px;
+   font-family: poppins;
+
+}
+p{
+    color: #1b1b1b;
+}
