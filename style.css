@@ -9,7 +9,7 @@ h2{
     font-family: poppins; 
     padding-left: 8vw;
 }
-.nav-link{
+.logo{
    color: #1b1b1b; 
    font-family:Comforter Brush;
    font-size: 88px; 
@@ -21,11 +21,14 @@ a:hover{
     color: #000;
 }
 
+.nav-item{
+    text-align: center;
+}
+
 @media only screen and (max-width: 768px) {
     
     h2{
-        font-size:20px ;
-        padding-top:9vh;
+        font-size:12px ;
     }
     
   }
@@ -36,7 +39,7 @@ nav{
     color: #1b1b1b;
 }
 
-.li{
+.li .a{
    font-size: 30px;
    font-family: poppins;
 
@@ -44,3 +47,8 @@ nav{
 p{
     color: #1b1b1b;
 }
+.about{
+    margin-top: 18vh;
+    margin-bottom: 40vh;
+}
+
