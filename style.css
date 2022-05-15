@@ -1,9 +1,10 @@
  body{
-    background-color:whitesmoke;
+    background-color:papayawhip;
     height: 100vh;
     user-select: none;
     color: #1b1b1b;
     font-family: poppins; 
+    
 }
 h2{
     font-size: 48px; 
@@ -27,16 +28,9 @@ h2{
     h2{
         font-size:28px ;
     }
-  .navbar-nav{
-      display: inline-flex;
-     position:absolute;
-     left: 50%;
-     text-align: center;
-     position: absolute;
-     left: 50%;
-     transform: translatex(-50%);
-    
-  }
+    p{
+        font-size: 10px;
+    }
 }
 
  p{
@@ -59,4 +53,8 @@ color: #1b1b1b;
 
 .carousel-inner{
     color: #000;
+}
+footer{
+    height: 30vh;
+    background-color:peachpuff;
 }
